@@ -1,4 +1,4 @@
-# 🏆 Selenium TestNG Automation Suite
+# 🏆 Selenium TestNG Automation for Flipkart
 
 ![Java](https://img.shields.io/badge/Java-11-red?logo=java)
 ![Selenium](https://img.shields.io/badge/Selenium-Web%20Automation-brightgreen?logo=selenium)
